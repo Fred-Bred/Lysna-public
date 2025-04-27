@@ -1,10 +1,10 @@
 readme.md
 *.env
 *.png
-"Legacy versions/"
+Legacy versions/
 lysna/language.py
 lysna/assessment.py
-"Proprietary versions/"
+Proprietary versions/
 venv/
 .git/
 .github/
