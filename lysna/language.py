@@ -107,7 +107,7 @@ class Dutch:
                              1: ['...'],
                              2: ['...']}
         
-        self.team_filter = "Before answering the questions, please select which team you are a part of.Keep this team in mind when answering the questions. I belong to the:"
+        self.team_filter = "Voor het beantwoorden van de vragen, selecteer eerst bij welk team je hoort. Houd dit team in gedachten bij het beantwoorden van de vragen. Ik hoor bij team:"
         
         self.reversed_items = ["...", "...", "...",
                     "...", "...",
@@ -187,7 +187,7 @@ class Danish:
                              1: ['...'],
                              2: ['...']}
         
-        self.team_filter = "Before answering the questions, please select which team you are a part of.Keep this team in mind when answering the questions. I belong to the:"
+        self.team_filter = "Inden du besvarer spørgsmålene, bedes du vælge hvilket team du er en del af. Husk dette team, når du besvarer spørgsmålene. Jeg tilhører:"
         
         self.reversed_items = ["...", "...", "...",
                     "...", "...",
