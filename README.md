@@ -1,2 +1,0 @@
-# Public version of Lysna analysis app repo
-This repository contains a cleaned-up version of an application for automated analysis of a proprietary survey-based assessment owned by [Lysna](https://lysna.world/).

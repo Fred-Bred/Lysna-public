@@ -8,3 +8,6 @@ Proprietary versions/
 venv/
 .git/
 .github/
+*.log
+__pycache__/
+*.pyc
