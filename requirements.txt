@@ -8,7 +8,7 @@ numpy==2.2.5
 packaging==25.0
 pandas==2.2.3
 pefile==2023.2.7
-pillow==11.2.1
+pillow==11.3.0
 pyinstaller==6.13.0
 pyinstaller-hooks-contrib==2025.3
 pyparsing==3.2.3
