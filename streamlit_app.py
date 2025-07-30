@@ -582,7 +582,7 @@ def main():
         layout="wide"
     )
     
-    st.title("📊 Lysna Assessment Analysis Tool")
+    st.title("Lysna Assessment Analysis Tool")
     st.markdown("---")
     
     # Create sidebar for inputs
